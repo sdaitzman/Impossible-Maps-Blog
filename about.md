@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm taking Impossible Maps at Olin College of Engineering, and blogging about my work here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sam@daitzman.com](mailto:sam@daitzman.com)
